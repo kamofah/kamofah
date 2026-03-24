@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamofah
-- 👀 I’m interested in: Web, Mobile, and Desktop Development, Game Development, and Sports Analytics
-- 🌱 I’m currently learning: ReactJS and ReactNative
+- 👀 I’m interested in: Building Web & Mobile Applications
+- 🌱 I’m currently learning: React/React Native
 - 💞️ I’m looking to collaborate on: Web and Mobile Projects
 - 📫 How to reach me: boafo819@gmail.com
 
